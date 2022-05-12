@@ -86,7 +86,6 @@ Emoji:
 Citações:
 
 - (> texto)
-
 > Exemplo de Citação
 
 Menção: 
