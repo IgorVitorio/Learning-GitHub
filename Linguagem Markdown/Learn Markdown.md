@@ -26,7 +26,7 @@ Lista numerada:
 2. exemplo 2
 3. exemplo 3
 4. exemplo 4
-   4.1 exemplo 4.1
+   1. exemplo 4.1
 5. exemplo
 
 Lista demarcada:
@@ -34,7 +34,7 @@ Lista demarcada:
 * exemplo 2
 * exemplo 3
 * exemplo 4
-   *exemplo 4.1
+   * exemplo 4.1
 * exemplo 5
 
 Lista de Tarefas:
