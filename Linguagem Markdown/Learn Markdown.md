@@ -67,7 +67,7 @@ Dado 7 | Dado 8 | Dado 9
 
 Comando:
 
-- `comando`
+- `comando entre aspas simples`
 - exemplo: `document.getElementById()`
 
 Trecho de código:
