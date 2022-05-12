@@ -44,8 +44,8 @@ Lista demarcada:
 
 Lista de Tarefas:
 
-- [ ] exemplo de tarefa 1
-- [x] exemplo de tarefa 2
+- [x] exemplo de tarefa 1
+- [ ] exemplo de tarefa 2
 - [x] exemplo de tarefa 3
 
 Imagem:
